@@ -1,1 +1,1 @@
-Projeto de aprendizado em JavaScript.
+Projetos de aprendizado em JavaScript.
